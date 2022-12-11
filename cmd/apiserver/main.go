@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/dnovik/http-rest-api/internal/app/apiserver"
 	"log"
 )
 
